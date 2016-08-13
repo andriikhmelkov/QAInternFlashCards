@@ -5,4 +5,4 @@ Live version availible at: http://drill.khmelkov.net/
 
 ## Known issues ##
 * 001: Double vertical scrolling bar
-* 002: Won't work proparly in earlier versions of IE. IE 10+ and also Edge should be fine.
+* 002: Won't work proparly with earlier versions of IE. IE 10+ and also Edge should be fine.
